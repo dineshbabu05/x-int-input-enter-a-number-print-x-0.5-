@@ -1,1 +1,3 @@
-# x-int-input-enter-a-number-print-x-0.5-
+
+x =100
+print(x*5)
