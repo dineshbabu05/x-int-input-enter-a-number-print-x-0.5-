@@ -1,0 +1,11 @@
+def Split(mix): 
+
+    ev_li = [ele for ele in li_in if ele%2 ==0] 
+
+    od_li = [ele for ele in li_in if ele%2 !=0] 
+
+    print("Even lists:", ev_li) 
+
+    print("Odd lists:", od_li) 
+
+ 
